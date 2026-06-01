@@ -1,0 +1,189 @@
+{
+  "site": {
+    "name": "KatibMarrakech",
+    "url": "https://katibmarrakech.com",
+    "phone": "+212612605737",
+    "whatsapp": "https://wa.me/212612605737",
+    "email": "salatrir@gmail.com",
+    "address": {
+      "city": "Marrakech",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "region": "MA-07",
+      "lat": 31.6295,
+      "lng": -7.9811
+    }
+  },
+  "languages": {
+    "ar": {
+      "title": "كاتب عمومي مراكش | خدمات كتابة احترافية | KatibMarrakech",
+      "description": "كاتب عمومي محترف في مراكش. خدمات كتابة الشكايات والطلبات والسيرة الذاتية والترجمة والعقود والرسائل الإدارية. تواصل عبر واتساب +212612605737",
+      "keywords": [
+        "كاتب عمومي مراكش",
+        "كاتب عمومي قربي",
+        "خدمات الكتابة العمومية",
+        "كتابة الشكايات",
+        "كتابة طلب خطي",
+        "ترجمة الوثائق مراكش",
+        "سيرة ذاتية احترافية",
+        "CV مراكش",
+        "عقود إدارية مراكش",
+        "طلبات التأشيرة المغرب",
+        "الرسائل الإدارية",
+        "مساعدة إدارية مراكش",
+        "تصحيح الوثائق",
+        "تعبئة الاستمارات المغرب",
+        "كاتب عمومي المغرب"
+      ],
+      "og_locale": "ar_MA",
+      "hreflang": "ar"
+    },
+    "fr": {
+      "title": "Écrivain Public Marrakech | Services Rédaction Professionnelle | KatibMarrakech",
+      "description": "Écrivain public professionnel à Marrakech. Rédaction plaintes, demandes, CV, traductions, contrats et courrier administratif. Contactez via WhatsApp +212612605737",
+      "keywords": [
+        "écrivain public Marrakech",
+        "écrivain public Maroc",
+        "rédaction administrative Maroc",
+        "CV professionnel Marrakech",
+        "traduction arabe français Marrakech",
+        "contrats Marrakech",
+        "demande visa Maroc",
+        "lettre motivation Maroc",
+        "plainte administrative Maroc",
+        "aide administrative Marrakech",
+        "rédaction documents officiels",
+        "traducteur Marrakech",
+        "rédacteur professionnel Maroc"
+      ],
+      "og_locale": "fr_MA",
+      "hreflang": "fr"
+    },
+    "en": {
+      "title": "Public Writer Marrakech | Professional Writing Services | KatibMarrakech",
+      "description": "Professional public writer in Marrakech, Morocco. Complaint writing, applications, CV, translations, contracts & administrative letters. Contact via WhatsApp +212612605737",
+      "keywords": [
+        "public writer Marrakech",
+        "public writer Morocco",
+        "document writing Marrakech",
+        "professional CV Morocco",
+        "translation services Marrakech",
+        "administrative writing Morocco",
+        "visa application letter Morocco",
+        "cover letter Morocco",
+        "contract drafting Marrakech",
+        "administrative assistance Morocco",
+        "official document writing",
+        "Marrakech writing services",
+        "bilingual writer Morocco"
+      ],
+      "og_locale": "en_US",
+      "hreflang": "en"
+    },
+    "es": {
+      "title": "Escritor Público Marrakech | Servicios Redacción Profesional | KatibMarrakech",
+      "description": "Escritor público profesional en Marrakech, Marruecos. Redacción quejas, solicitudes, CV, traducciones, contratos y cartas administrativas. Contacte por WhatsApp +212612605737",
+      "keywords": [
+        "escritor público Marrakech",
+        "escritor público Marruecos",
+        "redacción documentos Marruecos",
+        "CV profesional Marrakech",
+        "traducción árabe español Marrakech",
+        "contratos Marrakech",
+        "solicitud visado Marruecos",
+        "carta motivación Marruecos",
+        "queja administrativa Marruecos",
+        "asistencia administrativa Marrakech",
+        "redacción documentos oficiales",
+        "traductor Marrakech"
+      ],
+      "og_locale": "es_ES",
+      "hreflang": "es"
+    }
+  },
+  "schema_org": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "KatibMarrakech — كاتب عمومي مراكش",
+    "image": "https://katibmarrakech.com/og-image.jpg",
+    "url": "https://katibmarrakech.com",
+    "telephone": "+212612605737",
+    "email": "salatrir@gmail.com",
+    "priceRange": "$$",
+    "currenciesAccepted": "MAD",
+    "paymentAccepted": "Cash, Mobile Payment",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Marrakech",
+      "addressRegion": "Marrakech-Safi",
+      "addressCountry": "MA"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.6295,
+      "longitude": -7.9811
+    },
+    "openingHours": ["Mo-Sa 09:00-19:00"],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": "127",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "availableLanguage": [
+      { "@type": "Language", "name": "Arabic" },
+      { "@type": "Language", "name": "French" },
+      { "@type": "Language", "name": "English" },
+      { "@type": "Language", "name": "Spanish" }
+    ],
+    "serviceArea": {
+      "@type": "City",
+      "name": "Marrakech",
+      "containedInPlace": { "@type": "Country", "name": "Morocco" }
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "خدمات الكتابة العمومية",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "كتابة الشكايات", "description": "تحرير الشكايات الإدارية والقانونية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "كتابة الطلبات", "description": "طلبات رسمية لجميع الجهات الإدارية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "السيرة الذاتية CV", "description": "إعداد السيرة الذاتية الاحترافية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "الترجمة", "description": "ترجمة الوثائق الرسمية بين اللغات الأربع" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "العقود", "description": "صياغة وتحرير العقود التجارية والإيجارية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "الرسائل الإدارية", "description": "تحرير المراسلات الرسمية مع الجهات الحكومية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "طلبات التأشيرة", "description": "إعداد ملفات طلب التأشيرة وخطابات التغطية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "طلبات العمل", "description": "رسائل تحفيزية وطلبات توظيف احترافية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "المساعدة الإدارية", "description": "مساعدة في الإجراءات الإدارية المعقدة" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "تصحيح الوثائق", "description": "مراجعة وتصحيح الأخطاء اللغوية" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "تعبئة الاستمارات", "description": "مساعدة في تعبئة الاستمارات الرسمية" } }
+      ]
+    }
+  },
+  "target_keywords": {
+    "primary": [
+      "كاتب عمومي مراكش",
+      "écrivain public Marrakech",
+      "public writer Marrakech",
+      "escritor público Marrakech"
+    ],
+    "secondary": [
+      "كاتب عمومي قربي",
+      "خدمات الكتابة العمومية",
+      "كتابة الشكايات مراكش",
+      "ترجمة الوثائق مراكش",
+      "CV professionnel Marrakech",
+      "rédaction administrative Maroc"
+    ],
+    "long_tail": [
+      "كيف أكتب شكاية في المغرب",
+      "أحتاج كاتب عمومي في مراكش",
+      "ترجمة من العربية إلى الفرنسية مراكش",
+      "كتابة طلب تأشيرة مراكش",
+      "comment rédiger une plainte au Maroc",
+      "écrivain public près de moi Marrakech",
+      "how to write a complaint letter in Morocco",
+      "professional CV writing Marrakech Morocco"
+    ]
+  }
+}

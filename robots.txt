@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Block admin/config files
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.github/
+
+# Sitemap
+Sitemap: https://katibmarrakech.com/sitemap.xml
+
+# Crawl delay for polite bots
+Crawl-delay: 1
