@@ -1,13 +1,27 @@
 User-agent: *
 Allow: /
 
-# Block admin/config files
-Disallow: /node_modules/
-Disallow: /.git/
-Disallow: /.github/
+# Sitemaps
+Sitemap: https://qanon.xyz/sitemap.xml
+Sitemap: https://qanon.xyz/sitemap-images.xml
 
-# Sitemap
-Sitemap: https://katibmarrakech.com/sitemap.xml
+# Block admin and private areas
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /*.pdf$
 
-# Crawl delay for polite bots
-Crawl-delay: 1
+# Crawl delay
+Crawl-delay: 10
+
+# Allow major search bots explicitly
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 10
+
+User-agent: Baiduspider
+Allow: /

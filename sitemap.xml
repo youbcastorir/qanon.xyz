@@ -1,136 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!-- ═══ MAIN PAGES ═══ -->
+  <!-- الصفحة الرئيسية -->
   <url>
-    <loc>https://katibmarrakech.com/</loc>
-    <lastmod>2025-09-25</lastmod>
+    <loc>https://qanon.xyz/</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://katibmarrakech.com/?lang=ar"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://katibmarrakech.com/?lang=fr"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://katibmarrakech.com/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://katibmarrakech.com/?lang=es"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://katibmarrakech.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://qanon.xyz/ar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://qanon.xyz/fr/"/>
   </url>
 
-  <!-- ═══ ARABIC BLOG ARTICLES ═══ -->
-  <url><loc>https://katibmarrakech.com/blog/katib-omomi-marrakech</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/kitabat-shakawa-marrakech</loc><lastmod>2025-01-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/cv-marrakech</loc><lastmod>2025-01-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tarjama-wathaiq-marrakech</loc><lastmod>2025-02-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/uqood-eijaria-marrakech</loc><lastmod>2025-02-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/talabat-tashira-daleel</loc><lastmod>2025-02-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/rasail-idariya-rasmi</loc><lastmod>2025-02-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/talabat-amal-marrakech</loc><lastmod>2025-02-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/mosaada-idariya-marrakech</loc><lastmod>2025-02-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tashih-wathaiq-marrakech</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/katib-omomi-khedmat</loc><lastmod>2025-03-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/istimarat-rasmi-marrakech</loc><lastmod>2025-03-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/hoquq-moustahlik-marrakech</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tarjama-wathaiq-rasmi</loc><lastmod>2025-03-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/uqood-tijariya-marrakech</loc><lastmod>2025-03-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/katib-qarbi-marrakech</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/khedmat-kataba-marakech</loc><lastmod>2025-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/wasaiq-tashrihiya-marrakech</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/shakawa-amal-marrakech</loc><lastmod>2025-04-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/muqaddima-sira-zatiya</loc><lastmod>2025-04-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/roukhsa-tijariya-marrakech</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/istimarat-bank-marrakech</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tarjama-fransi-arabi-marrakech</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/uqood-bay-marrakech</loc><lastmod>2025-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/taqarir-marrakech</loc><lastmod>2025-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/shakawa-idari-marrakech</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/khedmat-omomi-thaqa</loc><lastmod>2025-05-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/wasiat-marrakech</loc><lastmod>2025-06-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/khitta-amal-marrakech</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/risala-tadiya-marrakech</loc><lastmod>2025-06-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/nasih-talaba-marrakech</loc><lastmod>2025-06-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/iqama-marrakech</loc><lastmod>2025-06-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tarjama-hispaniya-marrakech</loc><lastmod>2025-07-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/uqood-imtiaz-marrakech</loc><lastmod>2025-07-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/kataba-ihtijajiya-marrakech</loc><lastmod>2025-07-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/sira-zatiya-digital-marrakech</loc><lastmod>2025-07-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/talabat-munja-marrakech</loc><lastmod>2025-07-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tarjama-inglizi-arabi</loc><lastmod>2025-07-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/istimarat-tahkim-marrakech</loc><lastmod>2025-08-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/rasail-shakwa-bank</loc><lastmod>2025-08-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/khedmat-kataba-ain-3</loc><lastmod>2025-08-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/uqood-chirakat-marrakech</loc><lastmod>2025-08-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tasrih-ghiyab-marrakech</loc><lastmod>2025-08-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/rasail-tawsiya-marrakech</loc><lastmod>2025-08-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/tarjama-wasf-wazifa</loc><lastmod>2025-09-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/maqal-tadamun-marrakech</loc><lastmod>2025-09-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/istimarat-dhaman-marrakech</loc><lastmod>2025-09-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/wasaiq-amlak-marrakech</loc><lastmod>2025-09-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/khedmat-omomi-moqarin</loc><lastmod>2025-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/mostaqbal-kataba-raqmi</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- صفحة من نحن -->
+  <url>
+    <loc>https://qanon.xyz/about/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://qanon.xyz/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://qanon.xyz/fr/about/"/>
+  </url>
 
-  <!-- ═══ FRENCH BLOG ARTICLES ═══ -->
-  <url><loc>https://katibmarrakech.com/blog/ecrivain-public-marrakech</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/redaction-plainte-maroc</loc><lastmod>2025-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/cv-professionnel-marrakech</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/traduction-documents-marrakech</loc><lastmod>2025-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/lettre-motivation-maroc</loc><lastmod>2025-02-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/demande-visa-marrakech</loc><lastmod>2025-02-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/contrats-location-marrakech</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/courrier-administratif-maroc</loc><lastmod>2025-03-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/services-ecrivain-public-maroc</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/traduction-arabe-francais-marrakech</loc><lastmod>2025-03-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/formulaires-administratifs-maroc</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/dossier-emploi-marrakech</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/attestations-administratives-maroc</loc><lastmod>2025-04-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/correction-documents-marrakech</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/recours-administratifs-maroc</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/ecrivain-public-quartier-marrakech</loc><lastmod>2025-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/documents-immobiliers-marrakech</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/traduction-espagnol-arabe-marrakech</loc><lastmod>2025-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/redaction-contrats-commerciaux</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/avenir-ecrivain-public-digital</loc><lastmod>2025-06-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- صفحة الخدمات -->
+  <url>
+    <loc>https://qanon.xyz/services/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
 
-  <!-- ═══ ENGLISH BLOG ARTICLES ═══ -->
-  <url><loc>https://katibmarrakech.com/blog/public-writer-marrakech-guide</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/complaint-writing-morocco</loc><lastmod>2025-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/professional-cv-marrakech</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/document-translation-marrakech</loc><lastmod>2025-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/visa-application-morocco</loc><lastmod>2025-02-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/cover-letter-morocco-jobs</loc><lastmod>2025-02-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/rental-contracts-marrakech</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/administrative-letters-morocco</loc><lastmod>2025-03-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/public-writer-services-morocco</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/arabic-french-translation-marrakech</loc><lastmod>2025-03-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/form-filling-help-morocco</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/job-application-marrakech</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/administrative-certificates-morocco</loc><lastmod>2025-04-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/document-proofreading-marrakech</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/administrative-appeals-morocco</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/find-public-writer-marrakech</loc><lastmod>2025-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/real-estate-documents-marrakech</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/spanish-arabic-translation-marrakech</loc><lastmod>2025-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/commercial-contracts-drafting</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/public-writer-digital-era</loc><lastmod>2025-06-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- خدمة تأسيس الشركات -->
+  <url>
+    <loc>https://qanon.xyz/services/creation-societe-marrakech/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
-  <!-- ═══ SPANISH BLOG ARTICLES ═══ -->
-  <url><loc>https://katibmarrakech.com/blog/escritor-publico-marrakech-guia</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/redaccion-queja-marruecos</loc><lastmod>2025-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/cv-profesional-marrakech</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/traduccion-documentos-marrakech</loc><lastmod>2025-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/solicitud-visado-marruecos</loc><lastmod>2025-02-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/carta-motivacion-marruecos</loc><lastmod>2025-02-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/contratos-alquiler-marrakech</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/cartas-administrativas-marruecos</loc><lastmod>2025-03-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/servicios-escritor-publico-marruecos</loc><lastmod>2025-03-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/traduccion-arabe-espanol-marrakech</loc><lastmod>2025-03-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/rellenar-formularios-marruecos</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/solicitud-empleo-marrakech</loc><lastmod>2025-04-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/certificados-administrativos-marruecos</loc><lastmod>2025-04-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/correccion-documentos-marrakech</loc><lastmod>2025-04-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/recursos-administrativos-marruecos</loc><lastmod>2025-05-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/encontrar-escritor-publico-marrakech</loc><lastmod>2025-05-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/documentos-inmobiliarios-marrakech</loc><lastmod>2025-05-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/traduccion-espanol-arabe-marrakech</loc><lastmod>2025-05-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/contratos-comerciales-marruecos</loc><lastmod>2025-06-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://katibmarrakech.com/blog/escritor-publico-era-digital</loc><lastmod>2025-06-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- خدمة التوثيق والتصديق -->
+  <url>
+    <loc>https://qanon.xyz/services/legalisation-documents/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- خدمة العقود والاتفاقيات -->
+  <url>
+    <loc>https://qanon.xyz/services/contrats-juridiques/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- خدمة التوكيلات الرسمية -->
+  <url>
+    <loc>https://qanon.xyz/services/procuration/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- صفحة المدونة -->
+  <url>
+    <loc>https://qanon.xyz/blog/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- صفحة الاتصال -->
+  <url>
+    <loc>https://qanon.xyz/contact/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- صفحة الأسئلة الشائعة -->
+  <url>
+    <loc>https://qanon.xyz/faq/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
 
 </urlset>
